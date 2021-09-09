@@ -9,3 +9,6 @@ git clone https://github.com/AltCampus/training-studio
 
 cd training-studio
 ```
+
+- `index.html` is the main file
+- `assets` contains all the images, videos and stylesheet
